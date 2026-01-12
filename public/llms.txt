@@ -1,0 +1,65 @@
+# Deal 360 — Generative Engine Optimization Map
+
+> A נדל"ן וטכנולוגיה business.
+
+---
+
+## Pages
+
+### Features
+https://deal-360-27f25e49.zappy5.app/features
+גלה את היכולות המתקדמות של Deal360 - מערכת CRM חכמה לניהול נכסים ולקוחות בנדל'ן עם בינה מלאכותית, חתימות דיגיטליות, התאמה אוטומטית, ניהול עסקאות ותמלול שיחות אוטומטי
+
+### Pricing
+https://deal-360-27f25e49.zappy5.app/pricing
+מחירון Deal360 - מערכת CRM חכמה לניהול נכסים ולקוחות בנדל״ן. תוכניות מחיר גמישות החל מ-100₪ למשתמש בחודש. התאמה חכמה בין לקוחות לנכסים, חתימות דיגיטליות, תמלול שיחות אוטומטי וניהול עסקאות מתקדם. בחר את התוכנית המתאימה לך והתחל לבנות עסק נדל״ן מצליח.
+
+### Faq
+https://deal-360-27f25e49.zappy5.app/faq
+שאלות נפוצות על Deal360 - מערכת CRM חכמה לניהול נכסים ולקוחות בנדל'ן. מענה לכל השאלות שלך על הפלטפורמה המתקדמת שלנו, כולל מידע על התאמה אוטומטית, חתימות דיגיטליות, תמלול שיחות ומאגר נכסים ארצי.
+
+### Support
+https://deal-360-27f25e49.zappy5.app/support
+צור קשר עם Deal360 - מערכת CRM חכמה לניהול נכסים ולקוחות בנדל'ן. קבל תמיכה מקצועית דרך מייל, טלפון, צ'אט חי או הדרכה אישית. זמינים לעזור לך בכל שאלה.
+
+### Terms Of Service
+https://deal-360-27f25e49.zappy5.app/terms-of-service
+תנאי שירות של Deal360 - מערכת CRM מתקדמת לנדל'ן. קרא את תנאי השימוש, מדיניות התשלום, הגבלת אחריות ופרטיות המידע. השירותים שלנו כוללים ניהול נכסים, לקוחות, חתימות דיגיטליות, AI והתאמה חכמה.
+
+### Privacy Policy
+https://deal-360-27f25e49.zappy5.app/privacy-policy
+מדיניות פרטיות של Deal360 - מחויבים להגן על הפרטיות שלך. קרא כיצד אנו אוספים, משתמשים ומגנים על המידע האישי שלך במערכת Deal360.
+
+## Legal & Policy
+
+### Privacy Policy
+https://deal-360-27f25e49.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://deal-360-27f25e49.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://deal-360-27f25e49.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Deal 360
+Deal 360 is a business in the נדל"ן וטכנולוגיה industry.
+
+## Target Audience
+אנשי מקצוע בתחום הנדל"ן
+
+## Industry
+נדל"ן וטכנולוגיה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://deal-360-27f25e49.zappy5.app/sitemap.xml
+- **Robots.txt**: https://deal-360-27f25e49.zappy5.app/robots.txt

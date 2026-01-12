@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deal-360-27f25e49.zappy5.app/sitemap.xml
